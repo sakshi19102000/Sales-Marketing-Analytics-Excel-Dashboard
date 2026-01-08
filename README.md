@@ -27,7 +27,7 @@ The dashboard is designed for business stakeholders to quickly understand key pe
 ---
 
 ## 📈 Dashboard Preview
-![Dashboard](screenshots/Sales_Analytics_Dashboard_screenshot.png)
+![Dashboard](Sales_Analytics_Dashboard_screenshot.png)
 
 ---
 
